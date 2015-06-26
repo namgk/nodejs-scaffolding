@@ -1,2 +1,4 @@
 # nodejs-scaffolding
-Skeleton for Nodejs apps
+Skeleton for Nodejs apps  
+npm install  
+gulp  
